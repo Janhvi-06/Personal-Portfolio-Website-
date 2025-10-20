@@ -47,7 +47,7 @@ This project reflects my **learning journey**, from mastering HTML and CSS basic
 3. **Contact Form:**  
    - Visitors can fill out name, email, and message.  
    - Submission is handled via **Web3Forms API**.  
-   - Displays alert or confirmation such as: "You are hired at XYZ Company."  
+   - confirmation of hireing candidate such as: "You are hired at XYZ Company." is through email. 
 4. **Responsive Design:** Media queries ensure the website works seamlessly on **desktop, tablet, and mobile**.
 
 ---
