@@ -24,7 +24,7 @@ This project reflects my **learning journey**, from mastering HTML and CSS basic
   - **Live Project** links  
   - **GitHub Code** links  
 - ✉️ **Contact Form** powered by **Web3Forms API** to receive messages  
-- 📱 Fully **responsive and mobile-friendly design**  
+- 📱 **mobile-friendly design**  
 - ⚡ Smooth animations and interactive UI components using **JavaScript**
 
 ---
